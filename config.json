@@ -1,0 +1,12 @@
+{
+  "appName": "CANARY Test",
+  "appDesc": "This is an example program to start test using Canary SEFI",
+  "datasetPath": "dataset",
+  "baseTempPath": "temp",
+  "centerDatabasePath": "temp",
+  "system": {
+    "limited_read_img_size": 900,
+    "use_file_memory_cache": true,
+    "save_fig_model": "save_img_file"
+  }
+}
